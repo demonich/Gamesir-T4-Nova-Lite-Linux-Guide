@@ -1,5 +1,7 @@
 # Gamesir (T4) Nova Lite Linux Guide
 
+**DISCLAIMER**: WIP. The guide is not done yet
+
 This guide will help you deal with:
 - pairing issues when gamepad can't reconnect
 - inability to switch gamepad mode when connected via dongle
