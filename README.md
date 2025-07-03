@@ -54,7 +54,36 @@ After that, open the gamesir application again and follow the steps shown in the
 
 </details> 
 
+After this, do not forget to return the language settings to their original state.
+
 ### 1.1.2. By Windows Software
+
+You should do this steps on Windows (you can try use some winPE iso's..., virtual machine however is not suitable)
+
+Open [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+
+From there get first two zip archives
+
+![Снимок экрана_20250704_002412](https://github.com/user-attachments/assets/abd93fe5-2480-4702-8d95-cf5a7cfd6878)
+
+And unzip them into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+
+<details>
+<summary>Or look here</summary>
+
+<img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width="250"/>
+
+</details> 
 
 ### 1.2. USB dongle firmware (optional)
 
@@ -67,3 +96,5 @@ After that, open the gamesir application again and follow the steps shown in the
 ### 2.2. Postinstall configuration
 
 ## 3. Short how-to about device
+
+
