@@ -71,17 +71,17 @@ And unzip them into one folder. Then do the same as says on screenshots of [offi
 <details>
 <summary>Or look here</summary>
 
-<img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb"/>
 
-<img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width="600"/>
 
-<img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b"/>
 
-<img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width="700"/>
 
-<img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width="600"/>
 
-<img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width="250"/>
+<img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width="600"/>
 
 </details> 
 
