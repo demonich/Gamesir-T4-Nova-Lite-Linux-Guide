@@ -21,7 +21,7 @@ You can change firmware of this gamepad in two ways: via a smartphone or via a W
 
 ### 1.1.1. By Gamesir World App
 
-Disclaimer! The author (me) did these steps on an Android device and can't provide instructions for iOS users (it should be the same I think)
+DISCLAIMER: I personally did these steps on my Android device and can't provide instructions for iOS users (it should be almost the same I think)
 
 Get latest version of Gamesir App from [official website](https://gamesir.com/pages/software-detail)
 
@@ -37,6 +37,23 @@ Now, change your device settings to chinese. Yep, without this step, the applica
 
 DISCLAIMER: Actually, you can install firmware 4200, which is works well, other firmwares after this version work poorly (except 6300)
 
+After that, open the gamesir application again and follow the steps shown in the screenshots:
+
+<details>
+<summary>Click here</summary>
+
+<img src="https://github.com/user-attachments/assets/c8d4370d-0cd5-44b4-9fc7-74e0688e2876" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/8b01f2cd-d186-447c-8692-f1da2caae281" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/63746b55-aaff-4c01-882d-8eca2fcac586" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/09c0b28b-6640-4bab-bdfc-52381b613d56" alt="drawing" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/f86c6936-9321-4d7e-870d-46f5ebda2db5" alt="drawing" width="250"/>
+
+</details> 
+
 ### 1.1.2. By Windows Software
 
 ### 1.2. USB dongle firmware (optional)
@@ -50,4 +67,3 @@ DISCLAIMER: Actually, you can install firmware 4200, which is works well, other 
 ### 2.2. Postinstall configuration
 
 ## 3. Short how-to about device
-
