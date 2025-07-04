@@ -70,7 +70,7 @@ Then you can connect to your gamepad via bluetooth or reciever again if reconnec
 Before doing any serious actions with your device (for which I am not responsible, by the way, you do all actions at your own risk), I advise you:
 
 1. Download the official GameSir World App application to your smartphone (in the Play Market it may be called simply GameSir)
-2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [Reactivate pairing section](#03-reactivate-pairing-click-to-showhide-images-) )
+2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-images-) section)
 3. Add the gamepad to the GameSir application and look at the firmware version, perhaps you already have version 6300, if not, I advise you to install version 4200 which is more stable, than latest 6900 or 5700.
 
 ## 1.1. Firmware 4200
