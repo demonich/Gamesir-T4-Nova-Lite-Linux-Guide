@@ -4,6 +4,7 @@
 
 This guide will help you deal with:
 
+- lack of manual out of the box
 - pairing issues when gamepad can't reconnect
 - inability to switch gamepad mode when connected via reciever
 - non-working vibration (rumble) on linux when connected via bluetooth
