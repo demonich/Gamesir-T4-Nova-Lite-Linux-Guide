@@ -1,6 +1,6 @@
 # Gamesir (T4) Nova Lite Linux Guide
 
-**DISCLAIMER: WIP. The guide is not done yet**
+**DISCLAIMER: WIP. This guide is not done yet**
 
 This guide will help you deal with:
 - pairing issues when gamepad can't reconnect
@@ -153,4 +153,39 @@ Extract files from archives into one folder. Then do the same as says on screens
 
 ### 2.2. Postinstall configuration
 
+Create file ``` 99-gamesir-nova-lite-gamepad.rules ``` in ``` /etc/udev/rules.d/ ``` 
 
+with:
+
+```
+KERNEL=="hidraw*" ATTRS{name}=="Xbox Wireless Controller" GROUP="input", MODE="0660", TAG+="uaccess"
+SUBSYSTEMS=="input", ATTRS{name}=="Xbox Wireless Controller", GROUP="input", MODE="0660", TAG+="uaccess"
+KERNEL=="hidraw*" ATTRS{name}=="2.4G XBOX 360 For Windows" GROUP="input", MODE="0660", TAG+="uaccess"
+SUBSYSTEMS=="input", ATTRS{name}=="2.4G XBOX 360 For Windows", GROUP="input", MODE="0660", TAG+="uaccess"
+KERNEL=="hidraw*" ATTRS{name}=="Zikway Pro Controller" GROUP="input", MODE="0660", TAG+="uaccess"
+SUBSYSTEMS=="input", ATTRS{name}=="Zikway Pro Controller", GROUP="input", MODE="0660", TAG+="uaccess"
+KERNEL=="hidraw*" ATTRS{name}=="Zikway HID gamepad" GROUP="input", MODE="0660", TAG+="uaccess"
+SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="0660", TAG+="uaccess"
+```
+
+<details> 
+<summary> 
+
+#### Click to show how to do this
+</summary>
+
+> Just run in terminal this command to open **nano** editor
+> 
+> ```console
+> sudo nano /etc/udev/rules.d/99-gamesir-nova-lite-gamepad.rules 
+> ```
+> 
+> copy code above
+> 
+> And paste it in **nano** with ```ctrl``` + ```shift``` + ```v``` shortcut
+> 
+> Then ```ctrl``` + ```s``` to save
+> 
+> Then close **nano** with ```ctrl``` + ```c```
+
+</details>
