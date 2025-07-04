@@ -4,14 +4,64 @@
 
 This guide will help you deal with:
 - pairing issues when gamepad can't reconnect
-- inability to switch gamepad mode when connected via dongle
+- inability to switch gamepad mode when connected via reciever
 - non-working rumble (vibration) on linux when connected via bluetooth
 - missing xbox mode (xinput)
 
 To solve these problems, the following steps can be done:
-- Install gamepad firmware version 6300 (which is not in the official application by default)
-- Install USB dongle firmware (optional)
-- Install and configure the xpadneo driver for a PC on Linux
+- Change gamepad firmware version to 4200 or 6300 (which is not avaliable by default in the official **gamesir world app**)
+- Install USB reciever firmware (optional, for 6300 gamepad firmware, but will not work with 4200 gamepad firmware)
+- Install and configure [xpadneo](https://github.com/atar-axis/xpadneo) driver for a PC on Linux
+
+## 0. Gamepad Functions Manual
+
+[Link to official manual](https://cdn.shopify.com/s/files/1/2241/8433/files/Manual-GameSir_Nova_Lite_EN.pdf?v=1743156237)
+
+**DISCLAIMER**: this PDF file is heavy
+
+<details> <summary> 
+
+### 0.1 Device layout (*click to show/hide images*) </summary>
+
+*click on images to enlarge*
+
+<img src="https://github.com/user-attachments/assets/bdf238e4-da55-4e89-ad1c-411c8057f9db" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/7d091089-3069-41c6-82cd-c98e1de190db" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/71148763-3677-4dc8-a48d-592090af3ca1" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/5a5d2da8-d133-4237-b0ad-a2297906e16d" alt="drawing" width=70%/> </p>
+
+</details>
+
+<details> <summary> 
+
+### 0.2 Basic functions (*click to show/hide images*) </summary>
+
+*click on images to enlarge*
+
+<img src="https://github.com/user-attachments/assets/15016cb6-4045-4126-af35-6811b298e1f6" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/423a32c8-80d0-49fe-820a-36fc64647c8a" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/c5b1d93c-c6e1-40e5-a69b-679830210f0e" alt="drawing" width=70%/> </p>
+
+</details>
+
+<details> <summary> 
+  
+### 0.3 Reactivate pairing (*click to show/hide images*) </summary>
+  
+To activate the pairing status, you need to hold down the HOME and SCREENSHOT buttons for 3 seconds:
+
+*click on images to enlarge*
+
+<img src="https://github.com/user-attachments/assets/542149f6-fb97-46ce-b17c-a74a179882e4" alt="drawing" width=50%/> </p>
+
+Then you can connect to your gamepad via bluetooth or reciever again if reconnection is failed or you want to use gamepad with another device
+
+</details>
 
 ## 1. Install firmware
 
@@ -71,7 +121,7 @@ From there get first two zip archives
 
 ![Снимок экрана_20250704_002412](https://github.com/user-attachments/assets/abd93fe5-2480-4702-8d95-cf5a7cfd6878)
 
-And unzip them into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
 
 <details>
 <summary>
@@ -93,7 +143,7 @@ And unzip them into one folder. Then do the same as says on screenshots of [offi
 
 </details> 
 
-### 1.2. USB dongle firmware (optional)
+### 1.2. USB reciever firmware (optional)
 
 ### 1.2.1. By Windows Software
 
@@ -102,7 +152,5 @@ And unzip them into one folder. Then do the same as says on screenshots of [offi
 ### 2.1. Installation
 
 ### 2.2. Postinstall configuration
-
-## 3. Short how-to about device
 
 
