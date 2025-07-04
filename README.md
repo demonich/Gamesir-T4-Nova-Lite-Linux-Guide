@@ -1,6 +1,6 @@
 # Gamesir (T4) Nova Lite Linux Guide
 
-**DISCLAIMER: WIP? No, I think I'm done.**
+**DISCLAIMER: WIP? No, I think It's done.**
 
 This guide will help you deal with:
 
