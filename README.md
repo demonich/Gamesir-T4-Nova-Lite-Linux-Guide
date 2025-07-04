@@ -28,11 +28,8 @@ To solve these problems, the following steps can be done:
 *click on images to enlarge*
 
 <img src="https://github.com/user-attachments/assets/bdf238e4-da55-4e89-ad1c-411c8057f9db" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/7d091089-3069-41c6-82cd-c98e1de190db" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/71148763-3677-4dc8-a48d-592090af3ca1" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/5a5d2da8-d133-4237-b0ad-a2297906e16d" alt="drawing" width=70%/> </p>
 
 </details>
@@ -44,9 +41,7 @@ To solve these problems, the following steps can be done:
 *click on images to enlarge*
 
 <img src="https://github.com/user-attachments/assets/15016cb6-4045-4126-af35-6811b298e1f6" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/423a32c8-80d0-49fe-820a-36fc64647c8a" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/c5b1d93c-c6e1-40e5-a69b-679830210f0e" alt="drawing" width=70%/> </p>
 
 </details>
@@ -76,13 +71,9 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 *click on images to enlarge*
 
 <img src="https://github.com/user-attachments/assets/d7d2f1a1-0b8a-46bc-8a76-d6f9d052efcd" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/8c366ea5-b933-4855-8052-cb92d3ee64d6" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/25f33e83-5332-47ef-ab3b-c6f0cbe72cc6" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/50afb1b4-7b1d-4eaa-bbb1-09d8bba9202c" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/d8ff7099-dde8-40ee-8335-31d0dff7a7e8" alt="drawing" width=70%/> </p>
 
 </details>
@@ -94,13 +85,9 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 *click on images to enlarge*
 
 <img src="https://github.com/user-attachments/assets/ab65eb2f-ce84-4418-85a7-79661505e80c" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/299f106f-5a30-4607-8acb-d4d117d49d01" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/bd1442e7-c3e1-46b5-8dd5-ef9a84d55835" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/dc62f13f-ce05-440c-9027-03cf7f6a6546" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/4d713cda-a437-46a2-9297-ed4f25b712dd" alt="drawing" width=70%/> </p>
 
 </details>
@@ -121,13 +108,55 @@ Before doing any serious actions with your device (for which I am not responsibl
 2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section)
 3. Add the gamepad to the GameSir application and look at the firmware version, perhaps you already have version 6300, if not, I advise you to install version 4200 which is more stable, than latest 6900 or 5700.
 
-### 1.1. Firmware 4200
+<details> <summary> 
 
-### 1.1.1 Gamepad Firmware
+### 1.1. Firmware 4200 </summary>
 
+### 1.1.1 Gamepad Firmware 
 
+<img src="https://github.com/user-attachments/assets/62f34d59-4879-4d3f-a744-d67a08b96eea" alt="drawing" width=30%>
+<img src="https://github.com/user-attachments/assets/3016f78d-e699-401c-a601-ad28da78566a" alt="drawing" width=30%/> </p>
 
-### 1.2. Firmware 6300
+On the gamepad, press the ```A```+```HOME``` buttons until the HOME button starts blinking yellow. If it blinks slowly, the gamepad will not appear in the list of Bluetooth devices. In this case, see [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section.
+
+<img src="https://github.com/user-attachments/assets/d7c39f12-d59c-4b0b-b6a2-88ec399d31f9" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/8a20775b-69f0-4397-821c-11522b544c83" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/88cae5bc-7a3b-4298-8ca7-57436a5a80c7" alt="drawing" width=30%/> </p>
+
+Now open Gamesir app and add your gamepad in the Devices section. If you already have the device added, like in the following screenshot, you can click on the big icon of your gamepad right away.
+
+<img src="https://github.com/user-attachments/assets/4be22856-9515-46af-99a1-34e3bcde78c2" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/dd88c593-cd65-4293-af35-c6817a090c74" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/ba0220d5-5374-4e19-8103-7aa165357ce2" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/9c2ac8b7-26e1-4b18-ac3a-8631217f222a" alt="drawing" width=30%/> </p>
+
+As you can see in screenshot below, I already have firmware version 6300. Perhaps you will already have it after purchasing the device. Then, you probably can end read this guide.
+
+If it isn't, let's move on.
+
+<img src="https://github.com/user-attachments/assets/f4ea8099-a724-4ee5-8636-67f36915c513" alt="drawing" width=30%/> 
+<img src="https://github.com/user-attachments/assets/e503317f-b8c8-47dd-b657-9cdd4eb4744d" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/6d365742-7bb6-4fa5-b403-cad26e63b5a5" alt="drawing" width=30%/> </p>
+
+**ATTENTION**: next you will need to agree to install the firmware. Make sure that your smartphone and gamepad have enough battery power, and your internet connection is stable.
+If the update fails to download and the controller indicator is still flashing and not off, you can still cancel the process and try connecting to a more stable internet connection or using a VPN.
+
+After downloading the firmware, the gamepad will go into **"firmware update mode"**: the backlight around the HOME button will go out, the device will disappear from the list of connected Bluetooth devices, ***but it's actually connected***.
+I strongly recommend that you do not interrupt the process at this stage, do not minimize the application, do not turn off the smartphone screen, and do not move the two devices far from each other.
+
+**ATTENTION**: If for some reason the firmware installation is not completed successfully, your gamepad will still be in **"firmware update mode"**, it will still be connected to your smartphone, and you will most likely be able to repeat the firmware installation process inside Gamesir app (firmware upgrade button will be avaliable).
+
+<img src="https://github.com/user-attachments/assets/eaad63b5-c008-4d28-90d2-c47b758c5b69" alt="drawing" width=30%/> 
+
+### 1.1.2 Reciever Firmware
+
+Not required when working well with the 4200 gamepad firmware.
+
+</details>
+
+<details> <summary> 
+
+### 1.2. Firmware 6300 </summary>
 
 You can find the official manual and firmware/software files [here](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html). For some reason, this guide is only available in Chinese.
 
@@ -162,13 +191,9 @@ After that, open the gamesir application again and follow the steps shown in the
 </summary>
 
 <img src="https://github.com/user-attachments/assets/c8d4370d-0cd5-44b4-9fc7-74e0688e2876" alt="drawing" width="250"/> </p>
-
 <img src="https://github.com/user-attachments/assets/8b01f2cd-d186-447c-8692-f1da2caae281" alt="drawing" width="250"/> </p>
-
 <img src="https://github.com/user-attachments/assets/63746b55-aaff-4c01-882d-8eca2fcac586" alt="drawing" width="250"/> </p>
-
 <img src="https://github.com/user-attachments/assets/09c0b28b-6640-4bab-bdfc-52381b613d56" alt="drawing" width="250"/> </p>
-
 <img src="https://github.com/user-attachments/assets/f86c6936-9321-4d7e-870d-46f5ebda2db5" alt="drawing" width="250"/> </p>
 
 </details> 
@@ -194,17 +219,13 @@ Extract files from archives into one folder. Then do the same as says on screens
 </summary>
 
 <img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width=70%/> </p>
 
 The next step requires a wired connection between the gamepad and the PC.
 
 <img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width=70%/> </p>
-
 <img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width=70%/> </p>
 
 </details> 
@@ -212,6 +233,8 @@ The next step requires a wired connection between the gamepad and the PC.
 ### 1.2. USB reciever firmware (optional)
 
 ### 1.2.1. By Windows Software
+
+</details>
 
 ## 2. Install xpadneo driver on Linux-based distro
 
