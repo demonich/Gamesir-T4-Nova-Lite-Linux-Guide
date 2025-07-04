@@ -163,47 +163,27 @@ Not required when working well with the 4200 gamepad firmware.
 
 You can find the official manual and firmware/software files [here](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html). For some reason, this guide is only available in Chinese.
 
-### 1.1. Gamepad firmware
+### 1.2.1 Gamepad firmware
 
-You can change firmware of this gamepad in two ways: via a smartphone or via a Windows PC.
+You can install this version of firmware in two ways: 
+1. via a smartphone and Gamesir World App
+2. via a Windows PC and special firmware update software.
 
-### 1.1.1. By Gamesir World App
+<details> <summary> 
 
-**DISCLAIMER**: I personally did these steps on my Android device and can't provide instructions for iOS users (it should be almost the same I think)
+### 1.2.1.1. Via Gamesir World App </summary> 
 
-Get latest version of Gamesir App from [official website](https://gamesir.com/pages/software-detail)
+The process is the same as in [Firmware 4200](#11-firmware-4200-) section, but in order for firmware 6300 to appear among the available ones in the list, you need to change the language of your device to Chinese (simplified).
 
-![Снимок экрана_20250703_233114](https://github.com/user-attachments/assets/550d5377-9ae4-44f8-add7-cff7f173016f)
+Here is the proof:
 
-After installing the application, connect the gamepad to your smartphone. To do this, on gamepad press A + HOME buttons. The HOME button will start flashing yellow around. In the smartphone settings, go to Bluetooth, go to something like "search for devices" where in the list there will be "gamesir nova light"
+<img src="https://github.com/user-attachments/assets/09c0b28b-6640-4bab-bdfc-52381b613d56" alt="drawing" width=30%/> 
 
-If the device name is not in the list, it means that the gamepad cannot reconnect to the device that it remembered last. To put the gamepad into pairing mode, press HOME button and *the button below it* for 3 seconds. The backlight will start flashing faster, and you will be able to connect to the gamepad.
+</details>
 
-Inside the gamesir app, add your gamepad: in the device tab, in the upper right corner, click on the gamepad with plus icon, In the appeared list of devices find "gamesir nova lite"
+<details> <summary>
 
-Now, change your device settings to chinese. Yep, without this step, the application will not display the firmware version we are interested in.
-
-**DISCLAIMER**: Actually, you can install firmware 4200, which is works well, other firmwares after this version work poorly (except 6300)
-
-After that, open the gamesir application again and follow the steps shown in the screenshots:
-
-<details>
-<summary>
-  
-#### Click here
-</summary>
-
-<img src="https://github.com/user-attachments/assets/c8d4370d-0cd5-44b4-9fc7-74e0688e2876" alt="drawing" width="250"/> </p>
-<img src="https://github.com/user-attachments/assets/8b01f2cd-d186-447c-8692-f1da2caae281" alt="drawing" width="250"/> </p>
-<img src="https://github.com/user-attachments/assets/63746b55-aaff-4c01-882d-8eca2fcac586" alt="drawing" width="250"/> </p>
-<img src="https://github.com/user-attachments/assets/09c0b28b-6640-4bab-bdfc-52381b613d56" alt="drawing" width="250"/> </p>
-<img src="https://github.com/user-attachments/assets/f86c6936-9321-4d7e-870d-46f5ebda2db5" alt="drawing" width="250"/> </p>
-
-</details> 
-
-After this, do not forget to return the language settings to their original state.
-
-### 1.1.2. By Windows Software
+### 1.2.1.2. Via Firmware Update Software for Windows </summary> 
 
 You should do this steps on Windows (you can try use some winPE iso's..., virtual machine however is not acceptable for this)
 
@@ -214,6 +194,8 @@ From there get first two zip archives
 ![Снимок экрана_20250704_002412](https://github.com/user-attachments/assets/abd93fe5-2480-4702-8d95-cf5a7cfd6878)
 
 Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+
+
 
 <details>
 <summary>
@@ -232,6 +214,8 @@ The next step requires a wired connection between the gamepad and the PC.
 <img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width=70%/> </p>
 
 </details> 
+
+</details>
 
 ### 1.2. USB reciever firmware (optional)
 
