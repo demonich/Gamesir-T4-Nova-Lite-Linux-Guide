@@ -23,7 +23,7 @@ To solve these problems, the following steps can be done:
 
 <details> <summary> 
 
-### 0.1 Device layout (*click to show/hide images*) </summary>
+### 0.1 (Official) Device layout (*click to show/hide images*) </summary>
 
 *click on images to enlarge*
 
@@ -39,7 +39,7 @@ To solve these problems, the following steps can be done:
 
 <details> <summary> 
 
-### 0.2 Basic functions (*click to show/hide images*) </summary>
+### 0.2 (Official) Basic functions (*click to show/hide images*) </summary>
 
 *click on images to enlarge*
 
@@ -71,7 +71,7 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 
 <details> <summary> 
   
-### 0.4 Official connections tutorial (*click to show/hide images*) </summary>
+### 0.4 (Official) Connections tutorial (*click to show/hide images*) </summary>
 
 *click on images to enlarge*
 
@@ -84,6 +84,24 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 <img src="https://github.com/user-attachments/assets/50afb1b4-7b1d-4eaa-bbb1-09d8bba9202c" alt="drawing" width=70%/> </p>
 
 <img src="https://github.com/user-attachments/assets/d8ff7099-dde8-40ee-8335-31d0dff7a7e8" alt="drawing" width=70%/> </p>
+
+</details>
+
+<details> <summary> 
+  
+### 0.5 (Official) Advanced tutorial (*click to show/hide images*) </summary>
+
+*click on images to enlarge*
+
+<img src="https://github.com/user-attachments/assets/ab65eb2f-ce84-4418-85a7-79661505e80c" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/299f106f-5a30-4607-8acb-d4d117d49d01" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/bd1442e7-c3e1-46b5-8dd5-ef9a84d55835" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/dc62f13f-ce05-440c-9027-03cf7f6a6546" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/4d713cda-a437-46a2-9297-ed4f25b712dd" alt="drawing" width=70%/> </p>
 
 </details>
 
