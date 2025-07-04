@@ -171,7 +171,7 @@ Extract files from archives into one folder. Then do the same as says on screens
 
 <img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width=70%/> </p>
 
-The next step requires connecting the gamepad to the PC via a Type-C---USB wire.
+The next step requires a wired connection between the gamepad and the PC.
 
 <img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width=70%/> </p>
 
