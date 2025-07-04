@@ -319,7 +319,7 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 
 Create file ```99-gamesir-nova-lite-gamepad.conf``` in ```/etc/modprobe.d/```
 
-in the end of this file add line with:
+with:
 
 ```
 options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
