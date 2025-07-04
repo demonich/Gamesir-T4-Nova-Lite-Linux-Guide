@@ -59,6 +59,8 @@ To do this, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no m
 
 <img src="https://github.com/user-attachments/assets/542149f6-fb97-46ce-b17c-a74a179882e4" alt="drawing" width=50%/> </p>
 
+You will notice that the backlight starts to glow more often.
+
 Then you can connect to your gamepad via bluetooth or reciever again.
 
 This works with every [connection method](#04-official-connections-tutorial-click-to-showhide-section-).
