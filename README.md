@@ -14,7 +14,7 @@ To solve these problems, the following steps can be done:
 
 - Change gamepad firmware version to 4200 or 6300 (which is not avaliable by default in the official **gamesir world app**)
 - Change USB reciever firmware version (optional, for 6300 gamepad firmware, but will not work with 4200 gamepad firmware)
-- Install and configure [xpadneo](https://github.com/atar-axis/xpadneo) driver for a PC with Linux-based operating system on it.
+- Install and configure [xpadneo](https://github.com/atar-axis/xpadneo) driver (for Linux-based operating system).
 
 ## 0. Gamepad Functions Manual
 
