@@ -127,7 +127,10 @@ Now open Gamesir app and add your gamepad in the Devices section. If you already
 
 <img src="https://github.com/user-attachments/assets/4be22856-9515-46af-99a1-34e3bcde78c2" alt="drawing" width=30%/>
 <img src="https://github.com/user-attachments/assets/dd88c593-cd65-4293-af35-c6817a090c74" alt="drawing" width=30%/>
-<img src="https://github.com/user-attachments/assets/ba0220d5-5374-4e19-8103-7aa165357ce2" alt="drawing" width=30%/>
+<img src="https://github.com/user-attachments/assets/ba0220d5-5374-4e19-8103-7aa165357ce2" alt="drawing" width=30%/> </p>
+
+After pressing the "Continue Upgrade" button, the gamepad will disappear from the list of Bluetooth devices, and the backlight around the HOME button will start to blink slowly. At this point, you can cancel everything, and to connect the gamepad to smartphone again, see [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section.
+
 <img src="https://github.com/user-attachments/assets/9c2ac8b7-26e1-4b18-ac3a-8631217f222a" alt="drawing" width=30%/> </p>
 
 As you can see in screenshot below, I already have firmware version 6300. Perhaps you will already have it after purchasing the device. Then, you probably can end read this guide.
