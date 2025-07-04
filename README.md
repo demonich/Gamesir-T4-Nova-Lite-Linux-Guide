@@ -6,7 +6,7 @@ This guide will help you deal with:
 
 - pairing issues when gamepad can't reconnect
 - inability to switch gamepad mode when connected via reciever
-- non-working rumble (vibration) on linux when connected via bluetooth
+- non-working vibration (rumble) on linux when connected via bluetooth
 - missing xbox mode (xinput)
 
 To solve these problems, the following steps can be done:
@@ -163,7 +163,14 @@ Extract files from archives into one folder. Then do the same as says on screens
 
 ## 2. Install xpadneo driver on Linux-based distro
 
+[Xpadneo driver](https://github.com/atar-axis/xpadneo) is designed to work with the Bluetooth protocol, for us it will do two things:
+
+1. Detect xinput mode (```B```+```HOME```) as ```XBOX 360 Controller``` (may be useful for some old games that works with this gamepad)
+2. Allow vibration (rumble) to work in xinput mode (```B```+```HOME```)
+
 ### 2.1. Installation
+
+[Follow this steps](https://github.com/atar-axis/xpadneo#installation) from original instruction of xpadneo driver
 
 ### 2.2. Postinstall configuration
 
