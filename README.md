@@ -53,7 +53,7 @@ To solve these problems, the following steps can be done:
  
 If reconnection is failing or you want to use your gamepad with another device, then you need to enable ***pairing mode***.
 
-To do this, when gamepad is on and not connected, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no more, otherwise the controller will turn off):
+To do this, when gamepad is ON and not connected, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no more, otherwise the gamepad will turn OFF):
 
 *click on images to enlarge*
 
