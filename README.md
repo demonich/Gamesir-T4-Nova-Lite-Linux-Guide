@@ -228,7 +228,7 @@ The next step requires a wired connection between the gamepad and the PC.
 <details> 
 <summary> 
 
-### 1.2. USB reciever firmware (optional) </summary>
+#### 1.2.2. USB reciever firmware (optional) </summary>
 
 **ATTENTION**: as far as I know, after this you can't expect from your gamepad with 4200 firmware work with updated reciver. And you can't go back after this.
 
