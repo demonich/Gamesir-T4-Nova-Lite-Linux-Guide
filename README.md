@@ -107,7 +107,7 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 
 ## 1. Install firmware
 
-Before doing any serious actions with your device (for which I am not responsible, by the way, you do all actions at your own risk), I advise you:
+Before doing any serious actions with your device (for which I am not responsible, by the way, **you do all these actions at your own risk**), I advise you:
 
 1. Download the official GameSir World App application to your smartphone (in the Play Market it may be called simply GameSir)
 2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section)
