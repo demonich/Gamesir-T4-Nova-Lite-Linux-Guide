@@ -100,7 +100,7 @@ To quickly turn on the gamepad and automatically connect to the last remembered 
 
 </details>
 
-## 1. Install firmware
+## 1. Upgrading/downgrading firmware
 
 Before doing any serious actions with your device (for which I am not responsible, by the way, **you do all these actions at your own risk**), I advise you:
 
