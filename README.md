@@ -69,6 +69,24 @@ This works with every *connection method*.
 
 </details>
 
+<details> <summary> 
+  
+### 0.4 Official connections tutorial (*click to show/hide images*) </summary>
+
+*click on images to enlarge*
+
+<img src="https://github.com/user-attachments/assets/d7d2f1a1-0b8a-46bc-8a76-d6f9d052efcd" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/8c366ea5-b933-4855-8052-cb92d3ee64d6" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/25f33e83-5332-47ef-ab3b-c6f0cbe72cc6" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/50afb1b4-7b1d-4eaa-bbb1-09d8bba9202c" alt="drawing" width=70%/> </p>
+
+<img src="https://github.com/user-attachments/assets/d8ff7099-dde8-40ee-8335-31d0dff7a7e8" alt="drawing" width=70%/> </p>
+
+</details>
+
 ## 1. Install firmware
 
 Before doing any serious actions with your device (for which I am not responsible, by the way, you do all actions at your own risk), I advise you:
