@@ -185,7 +185,7 @@ Here is the proof:
 
 ### 1.2.1.2. Via Firmware Update Software for Windows </summary> 
 
-You should do this steps on Windows (you can try use some winPE iso's..., virtual machine however is not acceptable for this)
+Windows PC is required for this. Virtual machine is not acceptable. You can try use some WinPE iso's...
 
 Open [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
 
@@ -195,13 +195,10 @@ From there get first two zip archives
 
 Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
 
-
-
 <details>
 <summary>
   
-#### Click to show step-by-step instruction in screenshots
-</summary>
+#### Click to show step-by-step instruction in screenshots </summary>
 
 <img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width=70%/> </p>
 <img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width=70%/> </p>
@@ -217,9 +214,38 @@ The next step requires a wired connection between the gamepad and the PC.
 
 </details>
 
-### 1.2. USB reciever firmware (optional)
+<details> 
+<summary> 
 
-### 1.2.1. By Windows Software
+### 1.2. USB reciever firmware (optional) </summary>
+
+Windows PC is required for this. Virtual machine is not acceptable. You can try use some WinPE iso's...
+
+Open [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+
+From there get first and third archives
+
+![Снимок экрана_20250704_185012](https://github.com/user-attachments/assets/439dba72-907f-4400-9e0f-d61ae1129800)
+
+Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
+
+<details>
+<summary>
+  
+#### Click to show step-by-step instruction in screenshots </summary>
+
+<img src="https://github.com/user-attachments/assets/fe123609-cf7e-4dd0-9bcf-b15343351706" alt="drawing" width=70%/> </p>
+<img src="https://github.com/user-attachments/assets/c6e35375-d952-4285-b2a0-3b5d94da7127" alt="drawing" width=70%/> </p>
+<img src="https://github.com/user-attachments/assets/124ce226-a81f-443b-8261-47d195f3afdf" alt="drawing" width=70%/> </p>
+
+Now, connect the receiver to the computer, while holding down the button on it. After the indicator light stops glowing, continue.
+
+<img src="https://github.com/user-attachments/assets/799b1204-1d14-4f39-8356-5625b7fe9710" alt="drawing" width=70%/> </p>
+<img src="https://github.com/user-attachments/assets/3ab13c61-60d1-4767-88cb-8027fab40b30" alt="drawing" width=70%/> </p>
+
+</details> 
+
+</details>
 
 </details>
 
