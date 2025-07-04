@@ -144,7 +144,7 @@ Extract files from archives into one folder. Then do the same as says on screens
 <details>
 <summary>
   
-#### Or these screenshots will explain you what to do
+#### Click to show step-by-step instruction in screenshots
 </summary>
 
 <img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width=70%/> </p>
@@ -152,6 +152,8 @@ Extract files from archives into one folder. Then do the same as says on screens
 <img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width=70%/> </p>
 
 <img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width=70%/> </p>
+
+The next step requires connecting the gamepad to the PC via a Type-C---USB wire.
 
 <img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width=70%/> </p>
 
@@ -169,12 +171,12 @@ Extract files from archives into one folder. Then do the same as says on screens
 
 [Xpadneo driver](https://github.com/atar-axis/xpadneo) is designed to work with the Bluetooth protocol, for us it will do two things:
 
-1. Detect xinput mode (```B```+```HOME```) as ```XBOX 360 Controller``` (may be useful for some old games that works with this gamepad)
+1. Detect xinput mode (```B```+```HOME```) as ```XBOX 360 Controller``` (may be useful for some old games that works with this gamepad only)
 2. Allow vibration (rumble) to work in xinput mode (```B```+```HOME```)
 
 ### 2.1. Installation
 
-[Follow this steps](https://github.com/atar-axis/xpadneo#installation) from original instruction of xpadneo driver
+Check [this section](https://github.com/atar-axis/xpadneo?tab=readme-ov-file#prerequisites) and do [these steps](https://github.com/atar-axis/xpadneo#installation) from original instruction of xpadneo driver.
 
 ### 2.2. Postinstall configuration
 
