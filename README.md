@@ -111,7 +111,7 @@ To turn off the gamepad, hold down the ```HOME``` button for more than 4 seconds
 
 </details>
 
-## 1. Upgrading/downgrading firmware
+## 1.0. Upgrading/downgrading firmware
 
 Before doing any serious actions with your device (for which I am not responsible, by the way, **you do all these actions at your own risk**), I advise you:
 
@@ -123,7 +123,7 @@ Before doing any serious actions with your device (for which I am not responsibl
 
 ### 1.1. Firmware 4200 </summary>
 
-### 1.1.1 Gamepad Firmware 
+#### 1.1.1 Gamepad Firmware 
 
 <img src="https://github.com/user-attachments/assets/62f34d59-4879-4d3f-a744-d67a08b96eea" alt="drawing" width=30%>
 <img src="https://github.com/user-attachments/assets/3016f78d-e699-401c-a601-ad28da78566a" alt="drawing" width=30%/> </p>
@@ -162,7 +162,7 @@ I strongly recommend that you do not interrupt the process at this stage, do not
 
 <img src="https://github.com/user-attachments/assets/eaad63b5-c008-4d28-90d2-c47b758c5b69" alt="drawing" width=30%/> 
 
-### 1.1.2 Reciever Firmware
+#### 1.1.2 Reciever Firmware
 
 Not required when working well with the 4200 gamepad firmware.
 
@@ -174,7 +174,7 @@ Not required when working well with the 4200 gamepad firmware.
 
 You can find the official manual and firmware/software files [here](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html). For some reason, this guide is only available in Chinese.
 
-### 1.2.1 Gamepad firmware
+#### 1.2.1 Gamepad firmware
 
 You can install this version of firmware in two ways: 
 1. via a smartphone and Gamesir World App
@@ -182,7 +182,7 @@ You can install this version of firmware in two ways:
 
 <details> <summary> 
 
-### 1.2.1.1. Via Gamesir World App </summary> 
+##### 1.2.1.1. Via Gamesir World App </summary> 
 
 The process is the same as in [Firmware 4200](#11-firmware-4200-) section, but in order for firmware 6300 to appear among the available ones in the list, you need to change the language of your device to Chinese (simplified).
 
@@ -194,7 +194,7 @@ Here is the proof:
 
 <details> <summary>
 
-### 1.2.1.2. Via Firmware Update Software for Windows </summary> 
+##### 1.2.1.2. Via Firmware Update Software for Windows </summary> 
 
 Windows PC is required for this. Virtual machine is not acceptable. You can try use some WinPE iso's...
 
@@ -207,9 +207,7 @@ From there get first two zip archives
 Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
 
 <details>
-<summary>
-  
-#### Click to show step-by-step instruction in screenshots </summary>
+<summary> Click to show step-by-step instruction in screenshots </summary>
 
 <img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width=70%/> </p>
 <img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width=70%/> </p>
@@ -243,9 +241,7 @@ From there get first and third archives
 Extract files from archives into one folder. Then do the same as says on screenshots of [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
 
 <details>
-<summary>
-  
-#### Click to show step-by-step instruction in screenshots </summary>
+<summary> Click to show step-by-step instruction in screenshots </summary>
 
 <img src="https://github.com/user-attachments/assets/fe123609-cf7e-4dd0-9bcf-b15343351706" alt="drawing" width=70%/> </p>
 <img src="https://github.com/user-attachments/assets/c6e35375-d952-4285-b2a0-3b5d94da7127" alt="drawing" width=70%/> </p>
@@ -299,9 +295,7 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 ```
 
 <details> 
-<summary> 
-
-#### Click to show how to do this </summary>
+<summary> Click to show how to do this </summary>
 
 > Just run in terminal this command to open **nano** editor
 > 
@@ -319,7 +313,7 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 
 </details>
 
-### 2.2.1 Fix rumble
+#### 2.2.1 Fix rumble
 
 Create (or edit, if exists) file ```99-xpadneo-options.conf``` in ```/etc/modprobe.d/```
 
@@ -330,9 +324,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 ```
 
 <details> 
-<summary>
-
-#### Click to show how to do this </summary>
+<summary> Click to show how to do this </summary>
 
 > Just run in terminal this command to open **nano** editor
 > 
