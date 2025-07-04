@@ -317,7 +317,7 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 
 #### 2.2.1 Fix rumble
 
-Create (or edit, if exists) file ```99-xpadneo-options.conf``` in ```/etc/modprobe.d/```
+Create file ```99-gamesir-nova-lite-gamepad.conf``` in ```/etc/modprobe.d/```
 
 in the end of this file add line with:
 
@@ -331,10 +331,8 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 > Just run in terminal this command to open **nano** editor
 > 
 > ```console
-> sudo nano `/etc/modprobe.d/99-xpadneo-options.conf
+> sudo nano `/etc/modprobe.d/99-gamesir-nova-lite-gamepad.conf
 > ```
-> 
-> In **nano** press the ```Down``` button on keyboard until you reach the end of the file, also after that you can press ```Enter``` button on keyboard several times to create new blank lines
 >
 > copy code above
 > 
@@ -353,5 +351,7 @@ You can find it in the list of bluetooth devices, in the system applet or [bluem
 ![Снимок экрана_20250704_144425](https://github.com/user-attachments/assets/6e29d062-b9dc-4da6-b204-b0146134ac68)
 
 After the address, be sure to add a prefix (+6), without spaces. You can find out more details about this [here](https://github.com/atar-axis/xpadneo#gamesir-t4-nova-lite-family)
+
+**NOTE**: This line needs to be made for each controller that you want vibration to work on.
 
 </details>
