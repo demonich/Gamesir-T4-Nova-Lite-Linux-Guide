@@ -55,7 +55,7 @@ To solve these problems, the following steps can be done:
   
 ### 0.3 Reactivate pairing (*click to show/hide images*) </summary>
  
-If reconnection is failing or you want to use your gamepad with another device, then you need to enable pairing mode.
+If reconnection is failing or you want to use your gamepad with another device, then you need to enable ***pairing mode***.
 
 To do this, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no more, otherwise the controller will turn off):
 
@@ -65,7 +65,7 @@ To do this, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no m
 
 Then you can connect to your gamepad via bluetooth or reciever again.
 
-This works with every *connection method*.
+This works with every [connection method](#04-official-connections-tutorial-click-to-showhide-images-).
 
 </details>
 
