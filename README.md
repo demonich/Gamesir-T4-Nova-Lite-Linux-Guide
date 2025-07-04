@@ -23,7 +23,7 @@ To solve these problems, the following steps can be done:
 
 <details> <summary> 
 
-### 0.1 (Official) Device layout (*click to show/hide images*) </summary>
+### 0.1 (Official) Device layout (*click to show/hide section*) </summary>
 
 *click on images to enlarge*
 
@@ -39,7 +39,7 @@ To solve these problems, the following steps can be done:
 
 <details> <summary> 
 
-### 0.2 (Official) Basic functions (*click to show/hide images*) </summary>
+### 0.2 (Official) Basic functions (*click to show/hide section*) </summary>
 
 *click on images to enlarge*
 
@@ -53,7 +53,7 @@ To solve these problems, the following steps can be done:
 
 <details> <summary> 
   
-### 0.3 Reactivate pairing (*click to show/hide images*) </summary>
+### 0.3 Reactivate pairing (*click to show/hide section*) </summary>
  
 If reconnection is failing or you want to use your gamepad with another device, then you need to enable ***pairing mode***.
 
@@ -65,13 +65,13 @@ To do this, hold the ```HOME``` and ```SCREENSHOT``` buttons for 3 seconds (no m
 
 Then you can connect to your gamepad via bluetooth or reciever again.
 
-This works with every [connection method](#04-official-connections-tutorial-click-to-showhide-images-).
+This works with every [connection method](#04-official-connections-tutorial-click-to-showhide-section-).
 
 </details>
 
 <details> <summary> 
   
-### 0.4 (Official) Connections tutorial (*click to show/hide images*) </summary>
+### 0.4 (Official) Connections tutorial (*click to show/hide section*) </summary>
 
 *click on images to enlarge*
 
@@ -89,7 +89,7 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 
 <details> <summary> 
   
-### 0.5 (Official) Advanced tutorial (*click to show/hide images*) </summary>
+### 0.5 (Official) Advanced tutorial (*click to show/hide section*) </summary>
 
 *click on images to enlarge*
 
@@ -110,7 +110,7 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 Before doing any serious actions with your device (for which I am not responsible, by the way, you do all actions at your own risk), I advise you:
 
 1. Download the official GameSir World App application to your smartphone (in the Play Market it may be called simply GameSir)
-2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-images-) section)
+2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section)
 3. Add the gamepad to the GameSir application and look at the firmware version, perhaps you already have version 6300, if not, I advise you to install version 4200 which is more stable, than latest 6900 or 5700.
 
 ## 1.1. Firmware 4200
