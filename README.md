@@ -65,6 +65,18 @@ Then you can connect to your gamepad via bluetooth or reciever again if reconnec
 
 ## 1. Install firmware
 
+Before doing any serious actions with your device (for which I am not responsible, by the way, you do all actions at your own risk), I advise you
+
+1. Download the official GameSir World App application to your smartphone (in the Play Market it may be called simply GameSir)
+2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the Reactivate pairing section)
+3. Add the gamepad to the GameSir application and look at the firmware version, perhaps you already have version 6300, if not, I advise you to install version 4200 which is more stable, than latest 6900 or 5700.
+
+## 1.1. Firmware 4200
+
+
+
+## 1.2. Firmware 6300
+
 You can find the official manual and firmware/software files [here](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html). For some reason, this guide is only available in Chinese.
 
 ### 1.1. Gamepad firmware
@@ -190,6 +202,8 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 
 </details>
 
+### 2.2.1 Fix rumble
+
 Create (or edit, if exists) file ```99-xpadneo-options.conf``` in ```/etc/modprobe.d/```
 
 in the end of this file add line with:
@@ -210,7 +224,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 > sudo nano `/etc/modprobe.d/99-xpadneo-options.conf
 > ```
 > 
-> In **nano** press the ```Down``` button on keyboard until you reach the end of the file, also you can press ```Enter``` button on keyboard several times to create new blank lines
+> In **nano** press the ```Down``` button on keyboard until you reach the end of the file, also after that you can press ```Enter``` button on keyboard several times to create new blank lines
 >
 > copy code above
 > 
@@ -222,7 +236,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 
 </details>
 
-Where **4:24:C4:xx:xx:xx** is MAC adress of **your** gamepad
+Where ***4:24:C4:xx:xx:xx*** is MAC adress of ***your*** gamepad
 
 You can find it in the list of bluetooth devices, in the system applet or **blueman**
 
