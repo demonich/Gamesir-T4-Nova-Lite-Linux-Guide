@@ -105,6 +105,14 @@ This works with every [connection method](#04-official-connections-tutorial-clic
 
 </details>
 
+<details> <summary> 
+
+### 0.6 Fast reconnect (*click to show/hide section*) </summary>
+
+To quickly turn on the gamepad and automatically connect to the last remembered device, hold the ```HOME``` button for one second.
+
+</details>
+
 ## 1. Install firmware
 
 Before doing any serious actions with your device (for which I am not responsible, by the way, **you do all these actions at your own risk**), I advise you:
@@ -113,11 +121,13 @@ Before doing any serious actions with your device (for which I am not responsibl
 2. Connect your gamepad to your smartphone (using the A + HOME buttons on the gamepad. Note: if the gamepad is not in the list of Bluetooth devices, see the [0.3 Reactivate pairing](#03-reactivate-pairing-click-to-showhide-section-) section)
 3. Add the gamepad to the GameSir application and look at the firmware version, perhaps you already have version 6300, if not, I advise you to install version 4200 which is more stable, than latest 6900 or 5700.
 
-## 1.1. Firmware 4200
+### 1.1. Firmware 4200
+
+### 1.1.1 Gamepad Firmware
 
 
 
-## 1.2. Firmware 6300
+### 1.2. Firmware 6300
 
 You can find the official manual and firmware/software files [here](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html). For some reason, this guide is only available in Chinese.
 
