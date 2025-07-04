@@ -348,7 +348,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 
 Where ***44:24:C4:xx:xx:xx*** is MAC adress of ***your*** gamepad
 
-You can find it in the list of bluetooth devices, in the system applet or **blueman**
+You can find it in the list of bluetooth devices, in the system applet or [blueman](https://github.com/blueman-project/blueman).
 
 ![Снимок экрана_20250704_144425](https://github.com/user-attachments/assets/6e29d062-b9dc-4da6-b204-b0146134ac68)
 
