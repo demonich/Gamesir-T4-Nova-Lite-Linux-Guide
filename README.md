@@ -126,20 +126,20 @@ Extract files from archives into one folder. Then do the same as says on screens
 <details>
 <summary>
   
-#### Or look here
+#### Or these screenshots will explain you what to do
 </summary>
 
-<img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb"/> </p>
+<img src="https://github.com/user-attachments/assets/fd5b1027-f8fa-4f39-b976-05f2731582bb" alt="drawing" width=70%/> </p>
 
-<img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width="600"/> </p>
+<img src="https://github.com/user-attachments/assets/98542ca3-30ad-4004-818b-d11720e9ff92" alt="drawing" width=70%/> </p>
 
-<img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b"/> </p>
+<img src="https://github.com/user-attachments/assets/5078cab0-bb57-494c-bd00-fecbab94908b" alt="drawing" width=70%/> </p>
 
-<img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width="700"/> </p>
+<img src="https://github.com/user-attachments/assets/cb4be9c6-d64a-44a3-b7f9-3eb7c898d022" alt="drawing" width=70%/> </p>
 
-<img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width="600"/> </p>
+<img src="https://github.com/user-attachments/assets/18aa435c-e2a2-41ac-a6bc-5bc3379c0828" alt="drawing" width=70%/> </p>
 
-<img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width="600"/> </p>
+<img src="https://github.com/user-attachments/assets/2831a110-4ce5-4cae-96f7-142a1ace46c8" alt="drawing" width=70%/> </p>
 
 </details> 
 
@@ -189,3 +189,43 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 > Then close **nano** with ```ctrl``` + ```c```
 
 </details>
+
+Create (or edit, if exists) file ```99-xpadneo-options.conf``` in ```/etc/modprobe.d/```
+
+in the end of this file add line with:
+
+```
+options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
+```
+
+<details> 
+<summary>
+
+#### Click to show how to do this
+</summary>
+
+> Just run in terminal this command to open **nano** editor
+> 
+> ```console
+> sudo nano `/etc/modprobe.d/99-xpadneo-options.conf
+> ```
+> 
+> In **nano** press the ```Down``` button on keyboard until you reach the end of the file, also you can press ```Enter``` button on keyboard several times to create new blank lines
+>
+> copy code above
+> 
+> And paste it in **nano** with ```ctrl``` + ```shift``` + ```v``` shortcut
+> 
+> Then ```ctrl``` + ```s``` to save
+> 
+> Then close **nano** with ```ctrl``` + ```c```
+
+</details>
+
+Where **4:24:C4:xx:xx:xx** is MAC adress of **your** gamepad
+
+You can find it in the list of bluetooth devices, in the system applet or **blueman**
+
+![Снимок экрана_20250704_144425](https://github.com/user-attachments/assets/6e29d062-b9dc-4da6-b204-b0146134ac68)
+
+After the address, be sure to add a prefix (+6), without spaces. You can find out more details about this [here](https://github.com/atar-axis/xpadneo#gamesir-t4-nova-lite-family)
