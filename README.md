@@ -144,7 +144,7 @@ If the update fails to download and the controller indicator is still flashing a
 After downloading the firmware, the gamepad will go into **"firmware update mode"**: the backlight around the HOME button will go out, the device will disappear from the list of connected Bluetooth devices, ***but it's actually connected***.
 I strongly recommend that you do not interrupt the process at this stage, do not minimize the application, do not turn off the smartphone screen, and do not move the two devices far from each other.
 
-**ATTENTION**: If for some reason the firmware installation is not completed successfully, your gamepad will still be in **"firmware update mode"**, it will still be connected to your smartphone, and you will most likely be able to repeat the firmware installation process inside Gamesir app (firmware upgrade button will be avaliable).
+**ATTENTION**: If for some reason the firmware installation is not completed successfully, your gamepad will still be in **"firmware update mode"**, it will still be connected to your smartphone (despite the fact that the device will not be in the list of connected Bluetooth devices), and you will most likely be able to repeat the firmware installation process inside Gamesir app (firmware upgrade button will be avaliable).
 
 <img src="https://github.com/user-attachments/assets/eaad63b5-c008-4d28-90d2-c47b758c5b69" alt="drawing" width=30%/> 
 
