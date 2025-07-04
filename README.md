@@ -220,11 +220,19 @@ The next step requires a wired connection between the gamepad and the PC.
 1. Detect xinput mode (```B```+```HOME```) as ```XBOX 360 Controller``` (may be useful for some old games that works with this gamepad only)
 2. Allow vibration (rumble) to work in xinput mode (```B```+```HOME```)
 
-### 2.1. Installation
+<details> 
+<summary> 
+
+### 2.1. Installation </summary>
 
 Check [this section](https://github.com/atar-axis/xpadneo?tab=readme-ov-file#prerequisites) and do [these steps](https://github.com/atar-axis/xpadneo#installation) from original instruction of xpadneo driver.
 
-### 2.2. Postinstall configuration
+</details> 
+
+<details> 
+<summary> 
+  
+### 2.2. Post-installation configuring </summary>
 
 Create file ``` 99-gamesir-nova-lite-gamepad.rules ``` in ``` /etc/udev/rules.d/ ``` 
 
@@ -244,8 +252,7 @@ SUBSYSTEMS=="input", ATTRS{name}=="Zikway HID gamepad", GROUP="input", MODE="066
 <details> 
 <summary> 
 
-#### Click to show how to do this
-</summary>
+#### Click to show how to do this </summary>
 
 > Just run in terminal this command to open **nano** editor
 > 
@@ -276,8 +283,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 <details> 
 <summary>
 
-#### Click to show how to do this
-</summary>
+#### Click to show how to do this </summary>
 
 > Just run in terminal this command to open **nano** editor
 > 
@@ -304,3 +310,5 @@ You can find it in the list of bluetooth devices, in the system applet or **blue
 ![Снимок экрана_20250704_144425](https://github.com/user-attachments/assets/6e29d062-b9dc-4da6-b204-b0146134ac68)
 
 After the address, be sure to add a prefix (+6), without spaces. You can find out more details about this [here](https://github.com/atar-axis/xpadneo#gamesir-t4-nova-lite-family)
+
+</details>
