@@ -63,7 +63,7 @@ You will notice that the backlight starts to glow more often.
 
 Then you can connect to your gamepad via bluetooth or reciever again.
 
-This works with every [connection method](#04-official-connections-tutorial-click-to-showhide-section-).
+This works with every wireless [connection method](#04-official-connections-tutorial-click-to-showhide-section-).
 
 </details>
 
