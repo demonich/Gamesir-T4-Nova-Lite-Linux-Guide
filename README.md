@@ -100,9 +100,13 @@ To quickly turn on the gamepad and automatically connect to the last remembered 
 
 </details>
 
-### 0.6 Turn off (*click to show/hide section*) </summary>
+<details> <summary> 
+
+### 0.7 Turn off (*click to show/hide section*) </summary>
 
 To turn off the gamepad, hold down the ```HOME``` button for more than 4 seconds until the light around the button turns off.
+
+</details>
 
 </details>
 
