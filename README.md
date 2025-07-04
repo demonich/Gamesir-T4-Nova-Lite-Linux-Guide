@@ -219,6 +219,8 @@ The next step requires a wired connection between the gamepad and the PC.
 
 ### 1.2. USB reciever firmware (optional) </summary>
 
+**ATTENTION**: as far as I know, after this you can't expect from your gamepad with 4200 firmware work with updated reciver. And you can't go back after this.
+
 Windows PC is required for this. Virtual machine is not acceptable. You can try use some WinPE iso's...
 
 Open [official guide](https://doc.xiaoji.com/zh/t4nlite/detail/1192.html)
