@@ -331,7 +331,7 @@ options hid_xpadneo quirks=44:24:C4:xx:xx:xx+6
 > Just run in terminal this command to open **nano** editor
 > 
 > ```console
-> sudo nano `/etc/modprobe.d/99-gamesir-nova-lite-gamepad.conf
+> sudo nano /etc/modprobe.d/99-gamesir-nova-lite-gamepad.conf
 > ```
 >
 > copy code above
